@@ -1,3 +1,6 @@
 = SystemTools
 
+== register_ruby.rb
+Registers ruby to the path and refreshed the environment.
+
 TODO: associate .RB with ruby interpreter
